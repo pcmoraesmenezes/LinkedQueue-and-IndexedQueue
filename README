@@ -1,0 +1,39 @@
+# Queue-and-Stack Repository
+
+This repository contains C++ implementations of a queue and a stack, using linked structures.
+
+## Description
+
+The purpose of this repository is to provide simple implementations of queue and stack data structures using linked structures in C++. The code includes functionalities for enqueueing, dequeuing, pushing, and popping elements, along with basic operations to visualize the current state of the data structures.
+
+## Implementation Details
+
+- **Queue:**
+  - Enqueue: Add an element to the back of the queue.
+  - Dequeue: Remove the element from the front of the queue.
+
+- **Stack:**
+  - Push: Add an element to the top of the stack.
+  - Pop: Remove the element from the top of the stack.
+
+## Usage
+
+To use the programs, follow the instructions provided during runtime. The user interface allows you to interact with the data structures, including inserting, removing, and viewing elements.
+
+## How to Run
+
+Compile the C++ programs using a C++ compiler. For example, using g++:
+
+```bash
+g++ Queue.cpp -o Queue
+g++ Stack.cpp -o Stack
+```
+
+Run the compiled programs:
+
+```bash
+./Queue
+./Stack
+```
+
+Follow the prompts to interact with the queue and stack.
